@@ -53,14 +53,5 @@ Once the app is running, you can:
 -   Send the message by pressing the "Enter" key or the send button.
 -   Watch the simulated chatbot respond in real-time.
 
-## Contact 😉
-
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out:
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Aziz Khemiri](https://www.linkedin.com/in/azizkhemiri/)
-- **GitHub**: [AzizKhemiri](https://github.com/AzizKhemiri)
-
-I'd love to hear from you!
 
 
