@@ -7,7 +7,7 @@ export default function Input({ chat, setChat }) {
   const [loading, setLoading] = useState(false);
   const [rotate, setRotate] = useState(false);
   const genAI = new GoogleGenerativeAI(
-    "AIzaSyAuPdoZHMUieDFn04qafijPhlPdeH5QtYI"
+    "you gemini api key (40 letters)"
   );
   const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
   async function handleSubmit(e) {
