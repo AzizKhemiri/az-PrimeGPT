@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
-    "firebase": "^10.14.0",
+    "firebase": "^12.15.0",
     "js-cookie": "^3.0.5",
     "node": "^20.18.0",
     "react": "^18.3.1",
